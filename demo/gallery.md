@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2025-08-21
+date: 2025-08-24
 sitemap:
     priority: 0.5
 ---
@@ -13,6 +13,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 |---|---|---|---|---|---|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.2.x installations</b>| | | | |
+| [Baku - Ayivor & Allied Families of Denu (Family Tree)](https://baku-ayivor.org/familytree/) |JC Fancy Imagebar, JC Simple Footer|Rural|2.2.4|tg, gh|[William Ametozion](mailto:wametozion@gmail.com)|
 | [Hartenthaler, Mauz, Tschichholz](https://ahnen.hartenthaler.eu) |[Faces](#1), [GVExport](#4), [MultiTreeview, Extended Interactive Treeview](#7), [JC Imagebar, JC Treeview](#2), JP ManualMenu, [Repository Hierarchy](#5), [Vesta](#3), FAQ, [Extended Family](#6)|JustLight|2.2.4|de, at|[Hermann Hartenthaler](mailto:hermann@hartenthaler.de)|
 | [A Line of Malkins in Nu Tirani - New Zealand](https://alineofmalkins.com/wt_malkins/tree/wtmalkins) |![A Line of Malkins in Nu Tirani - NZ](https://alineofmalkins.com/wt_malkins/public/logos/Malkin-Family-Logo.svg) |Custom Theme|2.2.4|nz, gb| [Rick M](mailto:rick@alineofmalkins.com) |
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.2.4 | it |[Claudio Bendinelli](https://webtrees.bendinelliclaudio.it/index.php?route=%2Ftree%2Fbendinelli.ged%2Fcontact&to=Claudio&url=https%3A%2F%2Fwebtrees.bendinelliclaudio.it%3Froute%3D%252Ftree%252Fbendinelli.ged%252Fcontact%26to%3DClaudio%26url%3Dhttps%253A%252F%252Fwebtrees.bendinelliclaudio.it%253Froute%253D%25252Ftree%25252Fbendinelli.ged)|
